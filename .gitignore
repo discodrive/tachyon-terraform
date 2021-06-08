@@ -1,3 +1,4 @@
 # Keep the uploads folder but not its contents
 
 /.terraform
+.terraform.lock.hcl
